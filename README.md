@@ -51,7 +51,17 @@ Face_Recognition_Attendance_System/
 ├── haarcascade_frontalface_default.xml
 ├── main.py            # Main application file
 └── README.md
-
+📸 Screenshots
+Main Screen
+(GUI home interface showing system options)
+Taking Attendance
+(Live face detection and recognition in progress)
+Attendance Display
+(Tabular view of marked attendance with date and time)
+Help Menu
+(User guidance and system information)
+Change Password
+(Secure password update interface)
 🎯 Use Cases
 College and school attendance systems
 Office employee attendance
